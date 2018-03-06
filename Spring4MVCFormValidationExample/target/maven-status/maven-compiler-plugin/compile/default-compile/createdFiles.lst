@@ -1,0 +1,4 @@
+dam\tan\formvalidation\configuration\AppInitializer.class
+dam\tan\formvalidation\controller\StudentController.class
+dam\tan\formvalidation\configuration\AppConfiguration.class
+dam\tan\formvalidation\model\Student.class
