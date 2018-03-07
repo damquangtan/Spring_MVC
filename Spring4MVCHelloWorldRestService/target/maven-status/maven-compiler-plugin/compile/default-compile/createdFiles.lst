@@ -1,0 +1,4 @@
+dam\tan\springmvc\configuration\AppInitializer.class
+dam\tan\springmvc\controller\HelloWorldRestController.class
+dam\tan\springmvc\configuration\AppConfig.class
+dam\tan\springmvc\domain\Message.class
