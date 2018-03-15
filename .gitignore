@@ -3,3 +3,5 @@
 .recommenders/*
 *.gitignore
 /.recommenders/
+
+.sonarlint/*
