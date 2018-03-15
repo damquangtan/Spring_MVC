@@ -4,3 +4,4 @@
 /.recommenders/
 .sonarlint/*
 RemoteSystemsTempFiles/*
+documents/*
