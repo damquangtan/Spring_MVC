@@ -1,0 +1,4 @@
+dam\tan\springrest\configuration\AppInitializer.class
+dam\tan\springrest\configuration\AppConfig.class
+dam\tan\springrest\model\Message.class
+dam\tan\springrest\controller\MainController.class
